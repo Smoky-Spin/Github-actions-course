@@ -15,4 +15,4 @@ jobs:
                 echo "I won't fail"
                 exit 0
             - name: Say goodbye
-              run: echo "Goodbye!"
+              run: echo "Goodbyeee!"
